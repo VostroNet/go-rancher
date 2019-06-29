@@ -1,4 +1,4 @@
-module github.com/VostroNet/go-rancher/v2
+module github.com/vostronet/go-rancher/v2
 
 go 1.12
 
